@@ -1,0 +1,53 @@
+Cherian. R 
++91 7200331340 | Cherian262005@gmail.com | Leetcode |Linkedin| Github | Codechef 
+PROFILE  
+Highly motivated and dynamic professional seeking a challenging position in the technology industry where I can 
+leverage my knowledge of emerging technologies and expertise in SDLC to contribute to the development and 
+implementation of innovative solutions. 
+EDUCATION  
+Rajalakshmi Institute of Technology 
+Bachelor of technology in Computer Science, Minor in Business system. 
+CGPA - 8.0 
+June. 2022 – May 2026 
+Relevant Coursework: Data Structures & Algorithms, Operating Systems, Machine Learning, Database Systems, 
+Software Engineering Principles, OOPS, Computer Networks, DBMS, System Design, Discrete Mathematics. 
+EXPERIENCE 
+Summer Intern 
+Quintuple Solutions Pvt Ltd 
+Chennai, Tamil Nadu 
+• 
+August 2024 – September 2024 
+Developed responsive UIs using HTML, CSS, JS, React, and Figma, improving user engagement by 25% and 
+reducing page load times by 10% for critical user flows.   Applied full-stack skills interactive web applications, 
+optimizing system performance by 20% and designed to support 1,000+ concurrent users.    
+HR Intern 
+Wyreflow Technologies 
+Hybrid 
+January 2025 - February 2025 
+• Streamlined recruitment processes, from candidate sourcing to interview coordination, enhancing operational efficiency. 
+• Contributed to employee engagement initiatives and HR operations, supporting a positive workplace culture. 
+PROJECTS 
+Educational Institute Portal| UI/UX Design, Figma, Adobe XD, User Research 
+Pumo Technovation 
+January 2022 
+• Developed responsive UIs using HTML, CSS, JS, React, and Figma, improving user engagement by 55% and reducing 
+page load times by 25% for critical user flows.Conducted comprehensive user research to understand student and 
+instructor needs, informing design decisions and feature prioritization 
+Predicting Football Match Winners with Machine Learning and Python 
+May 2024 
+• Developed a machine learning model using Python and Scikit-learn to predict football match outcomes, achieving 
+75% prediction accuracy on a dataset and demonstrating a 20% improvement over baseline models 
+• Utilized BeautifulSoup to process large volumes of football match data for model training and validation. 
+TECHNICAL SKILLS 
+Programming Languages: Java, Python, C/C++, JavaScript, HTML/CSS, SQL  . 
+Frameworks & Libraries: React, Django, Flask, JavaFX, pandas, NumPy, Matplotlib, Spring Boot  . 
+Developer Tools & Version Control: Git, GitHub, Docker, VS Code, WebStorm, Kubernetes, Jenkins 
+Machine Learning / AI: Scikit-learn, Generative AI, ChatGPT, TensorFlow, PyTorch  
+Databases: PostgreSQL, MySQL, MongoDB, Oracle    
+CERTIFICATES 
+UI/UX Design: Graduated from a 6-month bootcamp at Pumo Technovation. 
+Data Structures and Algorithms: Certified through Udemy. 
+AI Tools and Prompt Engineering: Completed "Prompt Engineering for ChatGPT" by Vanderbilt University on Udemy. 
+LANGUAGES 
+Tamil, English, Hindi, German    
+ 
